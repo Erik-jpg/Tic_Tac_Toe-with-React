@@ -1,0 +1,25 @@
+{
+  "name": "tic_tac_toe-with-react",
+  "version": "1.0.0",
+  "description": "This is a recommended tutorial for building a Tic Tac Toe game, to understand how to use React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erik-jpg/Tic_Tac_Toe-with-React.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erik-jpg/Tic_Tac_Toe-with-React/issues"
+  },
+  "homepage": "https://github.com/Erik-jpg/Tic_Tac_Toe-with-React#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "node": "^16.9.1",
+    "react": "^17.0.2"
+  }
+}
